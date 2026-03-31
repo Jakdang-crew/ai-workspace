@@ -55,7 +55,6 @@ ai-workspace/
 
 ### Kotlin
 - 마켓플레이스 플러그인 `kotlin-conventions` 참조
-- 설치: `bash projects/claude-marketplace/scripts/install-plugin.sh kotlin-conventions <project-path>`
 
 ## 검증 습관
 
